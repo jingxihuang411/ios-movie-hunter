@@ -1,0 +1,411 @@
+{"movieList": [
+               {"Title":"Star Wars: Episode IV - A New Hope","Year":"1977","Rated":"PG","Released":"25 May 1977","Runtime":"121 min","Genre":"Action, Adventure, Fantasy, Sci-Fi","Director":"George Lucas","Writer":"George Lucas","Actors":"Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing","Plot":"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.","Language":"English","Country":"USA","Awards":"Won 6 Oscars. Another 50 wins & 28 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.6/10"},{"Source":"Rotten Tomatoes","Value":"93%"},{"Source":"Metacritic","Value":"90/100"}],"Metascore":"90","imdbRating":"8.6","imdbVotes":"1,083,584","imdbID":"tt0076759","Type":"movie","DVD":"21 Sep 2004","BoxOffice":"N/A","Production":"20th Century Fox","Website":"http://www.starwars.com/episode-iv/","Response":"True"},
+               {"Title":"Superbad","Year":"2007","Rated":"R","Released":"17 Aug 2007","Runtime":"113 min","Genre":"Comedy","Director":"Greg Mottola","Writer":"Seth Rogen, Evan Goldberg","Actors":"Jonah Hill, Michael Cera, Christopher Mintz-Plasse, Bill Hader","Plot":"Two co-dependent high school seniors are forced to deal with separation anxiety after their plan to stage a booze-soaked party goes awry.","Language":"English","Country":"USA","Awards":"11 wins & 24 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTc0NjIyMjA2OF5BMl5BanBnXkFtZTcwMzIxNDE1MQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.6/10"},{"Source":"Rotten Tomatoes","Value":"87%"},{"Source":"Metacritic","Value":"76/100"}],"Metascore":"76","imdbRating":"7.6","imdbVotes":"471,110","imdbID":"tt0829482","Type":"movie","DVD":"04 Dec 2007","BoxOffice":"$121,463,226","Production":"Sony Pictures/Columbia","Website":"http://www.sonypictures.com/movies/superbad/","Response":"True"},
+               {"Title":"Hot Fuzz","Year":"2007","Rated":"R","Released":"20 Apr 2007","Runtime":"121 min","Genre":"Action, Comedy","Director":"Edgar Wright","Writer":"Edgar Wright, Simon Pegg","Actors":"Simon Pegg, Martin Freeman, Bill Nighy, Robert Popper","Plot":"A skilled London police officer is transferred to a small town that's harbouring a dark secret.","Language":"English","Country":"UK, France","Awards":"2 wins & 9 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMzg4MDJhMDMtYmJiMS00ZDZmLThmZWUtYTMwZDM1YTc5MWE2XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.9/10"},{"Source":"Rotten Tomatoes","Value":"91%"},{"Source":"Metacritic","Value":"81/100"}],"Metascore":"81","imdbRating":"7.9","imdbVotes":"411,223","imdbID":"tt0425112","Type":"movie","DVD":"31 Jul 2007","BoxOffice":"$23,618,786","Production":"Rogue Pictures/Focus Features","Website":"http://www.hotfuzz.com/","Response":"True"},
+               {"Title":"Bridesmaids","Year":"2011","Rated":"R","Released":"13 May 2011","Runtime":"125 min","Genre":"Comedy, Romance","Director":"Paul Feig","Writer":"Kristen Wiig, Annie Mumolo","Actors":"Kristen Wiig, Terry Crews, Maya Rudolph, Tom Yi","Plot":"Competition between the maid of honor and a bridesmaid, over who is the bride's best friend, threatens to upend the life of an out-of-work pastry chef.","Language":"English","Country":"USA","Awards":"Nominated for 2 Oscars. Another 25 wins & 69 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMjAyOTMyMzUxNl5BMl5BanBnXkFtZTcwODI4MzE0NA@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"6.8/10"},{"Source":"Rotten Tomatoes","Value":"90%"},{"Source":"Metacritic","Value":"75/100"}],"Metascore":"75","imdbRating":"6.8","imdbVotes":"244,186","imdbID":"tt1478338","Type":"movie","DVD":"20 Sep 2011","BoxOffice":"$166,500,000","Production":"Universal Studios","Website":"http://www.bridesmaidsmovie.com/","Response":"True"},
+               {"Title":"Step Brothers","Year":"2008","Rated":"R","Released":"25 Jul 2008","Runtime":"98 min","Genre":"Comedy","Director":"Adam McKay","Writer":"Will Ferrell (screenplay), Adam McKay (screenplay), Will Ferrell (story), Adam McKay (story), John C. Reilly (story)","Actors":"Will Ferrell, John C. Reilly, Mary Steenburgen, Richard Jenkins","Plot":"Two aimless middle-aged losers still living at home are forced against their will to become roommates when their parents marry.","Language":"English, Spanish","Country":"USA","Awards":"3 wins & 2 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BODViZDg3ZjYtMzhiYS00YTVkLTk4MzktYWUxMTlkYjc1NjdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"6.9/10"},{"Source":"Rotten Tomatoes","Value":"55%"},{"Source":"Metacritic","Value":"51/100"}],"Metascore":"51","imdbRating":"6.9","imdbVotes":"239,096","imdbID":"tt0838283","Type":"movie","DVD":"02 Dec 2008","BoxOffice":"$100,468,793","Production":"Columbia Pictures","Website":"http://www.sonypictures.com/movies/stepbrothers/index.html","Response":"True"},
+               {"Title":"American Pie","Year":"1999","Rated":"R","Released":"09 Jul 1999","Runtime":"95 min","Genre":"Comedy","Director":"Paul Weitz, Chris Weitz","Writer":"Adam Herz","Actors":"Jason Biggs, Jennifer Coolidge, Shannon Elizabeth, Alyson Hannigan","Plot":"Four teenage boys enter a pact to lose their virginity by prom night.","Language":"English","Country":"USA","Awards":"9 wins & 14 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTg3ODY5ODI1NF5BMl5BanBnXkFtZTgwMTkxNTYxMTE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.0/10"},{"Source":"Rotten Tomatoes","Value":"61%"},{"Source":"Metacritic","Value":"58/100"}],"Metascore":"58","imdbRating":"7.0","imdbVotes":"344,807","imdbID":"tt0163651","Type":"movie","DVD":"21 Dec 1999","BoxOffice":"N/A","Production":"Universal Pictures","Website":"http://www.universalpictures.com/americanpie","Response":"True"},
+               {"Title":"Deadpool","Year":"2016","Rated":"R","Released":"12 Feb 2016","Runtime":"108 min","Genre":"Action, Adventure, Comedy, Sci-Fi","Director":"Tim Miller","Writer":"Rhett Reese, Paul Wernick","Actors":"Ryan Reynolds, Karan Soni, Ed Skrein, Michael Benyaer","Plot":"A fast-talking mercenary with a morbid sense of humor is subjected to a rogue experiment that leaves him with accelerated healing powers and a quest for revenge.","Language":"English","Country":"USA","Awards":"Nominated for 2 Golden Globes. Another 27 wins & 73 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BYzE5MjY1ZDgtMTkyNC00MTMyLThhMjAtZGI5OTE1NzFlZGJjXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.0/10"},{"Source":"Rotten Tomatoes","Value":"84%"},{"Source":"Metacritic","Value":"65/100"}],"Metascore":"65","imdbRating":"8.0","imdbVotes":"771,816","imdbID":"tt1431045","Type":"movie","DVD":"10 May 2016","BoxOffice":"$328,674,489","Production":"20th Century Fox","Website":"http://www.foxmovies.com/deadpool","Response":"True"},
+               {"Title":"Rushmore","Year":"1998","Rated":"R","Released":"19 Feb 1999","Runtime":"93 min","Genre":"Comedy, Drama","Director":"Wes Anderson","Writer":"Wes Anderson, Owen Wilson","Actors":"Jason Schwartzman, Bill Murray, Olivia Williams, Seymour Cassel","Plot":"The extracurricular king of Rushmore Preparatory School is put on academic probation.","Language":"English, Spanish, Latin, French","Country":"USA","Awards":"Nominated for 1 Golden Globe. Another 16 wins & 15 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMjE2OTc3OTk2M15BMl5BanBnXkFtZTgwMjg2NjIyMDE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.7/10"},{"Source":"Rotten Tomatoes","Value":"89%"},{"Source":"Metacritic","Value":"86/100"}],"Metascore":"86","imdbRating":"7.7","imdbVotes":"152,546","imdbID":"tt0128445","Type":"movie","DVD":"29 Jun 1999","BoxOffice":"N/A","Production":"Touchstone Pictures","Website":"N/A","Response":"True"},
+               {"Title":"The Dictator","Year":"2012","Rated":"R","Released":"16 May 2012","Runtime":"83 min","Genre":"Comedy","Director":"Larry Charles","Writer":"Sacha Baron Cohen, Alec Berg, David Mandel, Jeff Schaffer","Actors":"Sacha Baron Cohen, Sayed Badreya, Rocky Citron, Liam Campora","Plot":"The heroic story of a dictator who risked his life to ensure that democracy would never come to the country he so lovingly oppressed.","Language":"English, Hebrew, Arabic","Country":"USA","Awards":"1 win & 1 nomination.","Poster":"https://m.media-amazon.com/images/M/MV5BNTlkOWYzZDYtNzQ1MS00YTNkLTkyYTItMjBmNjgyMDBlMjI4XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"6.4/10"},{"Source":"Rotten Tomatoes","Value":"57%"},{"Source":"Metacritic","Value":"58/100"}],"Metascore":"58","imdbRating":"6.4","imdbVotes":"243,268","imdbID":"tt1645170","Type":"movie","DVD":"21 Aug 2012","BoxOffice":"$57,700,000","Production":"Paramount Pictures","Website":"http://www.republicofwadiya.com","Response":"True"},
+               {"Title":"Notting Hill","Year":"1999","Rated":"PG-13","Released":"28 May 1999","Runtime":"124 min","Genre":"Comedy, Drama, Romance","Director":"Roger Michell","Writer":"Richard Curtis","Actors":"Julia Roberts, Hugh Grant, Richard McCabe, Rhys Ifans","Plot":"The life of a simple bookshop owner changes when he meets the most famous film star in the world.","Language":"English, Spanish","Country":"UK, USA","Awards":"Nominated for 3 Golden Globes. Another 12 wins & 14 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTE5OTkwYzYtNDhlNC00MzljLTk1YTktY2IxZjliZmNjMjUzL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.1/10"},{"Source":"Rotten Tomatoes","Value":"83%"},{"Source":"Metacritic","Value":"66/100"}],"Metascore":"66","imdbRating":"7.1","imdbVotes":"235,252","imdbID":"tt0125439","Type":"movie","DVD":"09 Nov 1999","BoxOffice":"N/A","Production":"Universal Pictures","Website":"http://www.notting-hill.com","Response":"True"},
+               {"Title":"The Truman Show","Year":"1998","Rated":"PG","Released":"05 Jun 1998","Runtime":"103 min","Genre":"Comedy, Drama, Sci-Fi","Director":"Peter Weir","Writer":"Andrew Niccol","Actors":"Jim Carrey, Laura Linney, Noah Emmerich, Natascha McElhone","Plot":"An insurance salesman/adjuster discovers his entire life is actually a television show.","Language":"English","Country":"USA","Awards":"Nominated for 3 Oscars. Another 38 wins & 65 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMDIzODcyY2EtMmY2MC00ZWVlLTgwMzAtMjQwOWUyNmJjNTYyXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.1/10"},{"Source":"Rotten Tomatoes","Value":"94%"},{"Source":"Metacritic","Value":"90/100"}],"Metascore":"90","imdbRating":"8.1","imdbVotes":"806,594","imdbID":"tt0120382","Type":"movie","DVD":"26 Jan 1999","BoxOffice":"N/A","Production":"Paramount Pictures","Website":"N/A","Response":"True"},
+               {"Title":"It Follows","Year":"2014","Rated":"R","Released":"27 Mar 2015","Runtime":"100 min","Genre":"Horror, Mystery","Director":"David Robert Mitchell","Writer":"David Robert Mitchell","Actors":"Bailey Spry, Carollette Phillips, Loren Bass, Keir Gilchrist","Plot":"A young woman is followed by an unknown supernatural force after a sexual encounter.","Language":"English","Country":"USA","Awards":"24 wins & 41 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMmU0MjBlYzYtZWY0MC00MjliLWI3ZmUtMzhlZDVjMWVmYWY4XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"6.9/10"},{"Source":"Rotten Tomatoes","Value":"97%"},{"Source":"Metacritic","Value":"83/100"}],"Metascore":"83","imdbRating":"6.9","imdbVotes":"172,219","imdbID":"tt3235888","Type":"movie","DVD":"14 Jul 2015","BoxOffice":"$10,705,259","Production":"Radius-TWC","Website":"http://www.itfollowsfilm.com/","Response":"True"},
+               {"Title":"Get Out","Year":"2017","Rated":"R","Released":"24 Feb 2017","Runtime":"104 min","Genre":"Horror, Mystery, Thriller","Director":"Jordan Peele","Writer":"Jordan Peele","Actors":"Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford","Plot":"A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.","Language":"English","Country":"Japan, USA","Awards":"Won 1 Oscar. Another 122 wins & 181 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMjUxMDQwNjcyNl5BMl5BanBnXkFtZTgwNzcwMzc0MTI@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.7/10"},{"Source":"Rotten Tomatoes","Value":"99%"},{"Source":"Metacritic","Value":"84/100"}],"Metascore":"84","imdbRating":"7.7","imdbVotes":"341,351","imdbID":"tt5052448","Type":"movie","DVD":"23 May 2017","BoxOffice":"$175,428,355","Production":"Universal Pictures","Website":"http://www.getoutfilm.com/","Response":"True"},
+               {"Title":"The Shining","Year":"1980","Rated":"R","Released":"13 Jun 1980","Runtime":"146 min","Genre":"Drama, Horror","Director":"Stanley Kubrick","Writer":"Stephen King (novel), Stanley Kubrick (screenplay), Diane Johnson (screenplay)","Actors":"Jack Nicholson, Shelley Duvall, Danny Lloyd, Scatman Crothers","Plot":"A family heads to an isolated hotel for the winter where an evil spiritual presence influences the father into violence, while his psychic son sees horrific forebodings from the past and of the future.","Language":"English","Country":"UK, USA","Awards":"3 wins & 7 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BZWFlYmY2MGEtZjVkYS00YzU4LTg0YjQtYzY1ZGE3NTA5NGQxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.4/10"},{"Source":"Rotten Tomatoes","Value":"86%"},{"Source":"Metacritic","Value":"63/100"}],"Metascore":"63","imdbRating":"8.4","imdbVotes":"747,014","imdbID":"tt0081505","Type":"movie","DVD":"29 Jun 1999","BoxOffice":"N/A","Production":"Warner Bros. Pictures","Website":"N/A","Response":"True"},
+               {"Title":"Scream","Year":"1996","Rated":"R","Released":"20 Dec 1996","Runtime":"111 min","Genre":"Horror, Mystery","Director":"Wes Craven","Writer":"Kevin Williamson","Actors":"Drew Barrymore, Roger Jackson, Kevin Patrick Walls, David Booth","Plot":"A year after the murder of her mother, a teenage girl is terrorized by a new killer, who targets the girl and her friends by using horror films as part of a deadly game.","Language":"English","Country":"USA","Awards":"7 wins & 8 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMjA2NjU5MTg5OF5BMl5BanBnXkFtZTgwOTkyMzQxMDE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.2/10"},{"Source":"Rotten Tomatoes","Value":"79%"},{"Source":"Metacritic","Value":"65/100"}],"Metascore":"65","imdbRating":"7.2","imdbVotes":"254,240","imdbID":"tt0117571","Type":"movie","DVD":"02 Dec 1997","BoxOffice":"N/A","Production":"Miramax Films","Website":"N/A","Response":"True"},
+               {"Title":"The Conjuring","Year":"2013","Rated":"R","Released":"19 Jul 2013","Runtime":"112 min","Genre":"Horror, Mystery, Thriller","Director":"James Wan","Writer":"Chad Hayes, Carey W. Hayes","Actors":"Vera Farmiga, Patrick Wilson, Lili Taylor, Ron Livingston","Plot":"Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse.","Language":"English, Latin","Country":"USA","Awards":"15 wins & 22 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"},{"Source":"Rotten Tomatoes","Value":"86%"},{"Source":"Metacritic","Value":"68/100"}],"Metascore":"68","imdbRating":"7.5","imdbVotes":"377,124","imdbID":"tt1457767","Type":"movie","DVD":"22 Oct 2013","BoxOffice":"$137,387,272","Production":"Warner Bros. Pictures","Website":"http://www.theconjuring-movie.com","Response":"True"},
+               {"Title":"The Exorcist","Year":"1973","Rated":"R","Released":"26 Dec 1973","Runtime":"122 min","Genre":"Horror","Director":"William Friedkin","Writer":"William Peter Blatty (written for the screen by), William Peter Blatty (novel)","Actors":"Ellen Burstyn, Max von Sydow, Lee J. Cobb, Kitty Winn","Plot":"When a teenage girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her daughter.","Language":"English, Latin, Greek, French, German, Arabic, Kurdish","Country":"USA","Awards":"Won 2 Oscars. Another 14 wins & 17 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BYjhmMGMxZDYtMTkyNy00YWVmLTgyYmUtYTU3ZjcwNTBjN2I1XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.0/10"},{"Source":"Rotten Tomatoes","Value":"86%"},{"Source":"Metacritic","Value":"82/100"}],"Metascore":"82","imdbRating":"8.0","imdbVotes":"321,374","imdbID":"tt0070047","Type":"movie","DVD":"01 Dec 1998","BoxOffice":"N/A","Production":"Warner Bros. Pictures","Website":"http://theexorcist.warnerbros.com/","Response":"True"},
+               {"Title":"Psycho","Year":"1960","Rated":"R","Released":"08 Sep 1960","Runtime":"109 min","Genre":"Horror, Mystery, Thriller","Director":"Alfred Hitchcock","Writer":"Joseph Stefano (screenplay by), Robert Bloch (based on the novel by)","Actors":"Anthony Perkins, Vera Miles, John Gavin, Janet Leigh","Plot":"A Phoenix secretary embezzles forty thousand dollars from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.","Language":"English","Country":"USA","Awards":"Nominated for 4 Oscars. Another 5 wins & 9 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BNTQwNDM1YzItNDAxZC00NWY2LTk0M2UtNDIwNWI5OGUyNWUxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.5/10"},{"Source":"Rotten Tomatoes","Value":"97%"},{"Source":"Metacritic","Value":"97/100"}],"Metascore":"97","imdbRating":"8.5","imdbVotes":"514,513","imdbID":"tt0054215","Type":"movie","DVD":"06 Mar 2001","BoxOffice":"N/A","Production":"Paramount Pictures","Website":"N/A","Response":"True"},
+               {"Title":"The Cabin in the Woods","Year":"2012","Rated":"R","Released":"13 Apr 2012","Runtime":"95 min","Genre":"Comedy, Horror","Director":"Drew Goddard","Writer":"Joss Whedon, Drew Goddard","Actors":"Kristen Connolly, Chris Hemsworth, Anna Hutchison, Fran Kranz","Plot":"Five friends go for a break at a remote cabin, where they get more than they bargained for, discovering the truth behind the cabin in the woods.","Language":"English, Japanese","Country":"USA","Awards":"20 wins & 33 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BNTUxNzYyMjg2N15BMl5BanBnXkFtZTcwMTExNzExNw@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.0/10"},{"Source":"Rotten Tomatoes","Value":"91%"},{"Source":"Metacritic","Value":"72/100"}],"Metascore":"72","imdbRating":"7.0","imdbVotes":"326,612","imdbID":"tt1259521","Type":"movie","DVD":"18 Sep 2012","BoxOffice":"$42,043,633","Production":"Lionsgate Films","Website":"http://discoverthecabininthewoods.com/","Response":"True"},
+               {"Title":"The Witch","Year":"2015","Rated":"R","Released":"19 Feb 2016","Runtime":"92 min","Genre":"Horror, Mystery","Director":"Robert Eggers","Writer":"Robert Eggers","Actors":"Anya Taylor-Joy, Ralph Ineson, Kate Dickie, Harvey Scrimshaw","Plot":"A family in 1630s New England is torn apart by the forces of witchcraft, black magic and possession.","Language":"English","Country":"UK, Canada, USA","Awards":"41 wins & 64 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTUyNzkwMzAxOF5BMl5BanBnXkFtZTgwMzc1OTk1NjE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"6.8/10"},{"Source":"Rotten Tomatoes","Value":"91%"},{"Source":"Metacritic","Value":"83/100"}],"Metascore":"83","imdbRating":"6.8","imdbVotes":"141,575","imdbID":"tt4263482","Type":"movie","DVD":"17 May 2016","BoxOffice":"$19,239,494","Production":"A24 Films","Website":"http://thewitch-movie.com/","Response":"True"},
+               {"Title":"The Incredibles","Year":"2004","Rated":"PG","Released":"05 Nov 2004","Runtime":"115 min","Genre":"Animation, Action, Adventure, Family","Director":"Brad Bird","Writer":"Brad Bird","Actors":"Craig T. Nelson, Holly Hunter, Samuel L. Jackson, Jason Lee","Plot":"A family of undercover superheroes, while trying to live the quiet suburban life, are forced into action to save the world.","Language":"English, French","Country":"USA","Awards":"Won 2 Oscars. Another 65 wins & 55 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTY5OTU0OTc2NV5BMl5BanBnXkFtZTcwMzU4MDcyMQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.0/10"},{"Source":"Metacritic","Value":"90/100"}],"Metascore":"90","imdbRating":"8.0","imdbVotes":"574,563","imdbID":"tt0317705","Type":"movie","DVD":"29 Mar 2005","BoxOffice":"N/A","Production":"N/A","Website":"N/A","Response":"True"},
+               {"Title":"Finding Nemo","Year":"2003","Rated":"G","Released":"30 May 2003","Runtime":"100 min","Genre":"Animation, Adventure, Comedy, Family, Fantasy","Director":"Andrew Stanton, Lee Unkrich(co-director)","Writer":"Andrew Stanton (original story by), Andrew Stanton (screenplay by), Bob Peterson (screenplay by), David Reynolds (screenplay by)","Actors":"Albert Brooks, Ellen DeGeneres, Alexander Gould, Willem Dafoe","Plot":"After his son is captured in the Great Barrier Reef and taken to Sydney, a timid clownfish sets out on a journey to bring him home.","Language":"English","Country":"USA","Awards":"Won 1 Oscar. Another 48 wins & 61 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BZjMxYzBiNjUtZDliNC00MDAyLTg3N2QtOWNjNmNhZGQzNDg5XkEyXkFqcGdeQXVyNjE2MjQwNjc@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.1/10"},{"Source":"Rotten Tomatoes","Value":"99%"},{"Source":"Metacritic","Value":"90/100"}],"Metascore":"90","imdbRating":"8.1","imdbVotes":"836,422","imdbID":"tt0266543","Type":"movie","DVD":"07 May 2013","BoxOffice":"$380,529,370","Production":"Walt Disney Pictures","Website":"http://disney.go.com/disneyvideos/animatedfilms/findingnemo/index2.html","Response":"True"},
+               {"Title":"Toy Story","Year":"1995","Rated":"G","Released":"22 Nov 1995","Runtime":"81 min","Genre":"Animation, Adventure, Comedy, Family, Fantasy","Director":"John Lasseter","Writer":"John Lasseter (original story by), Pete Docter (original story by), Andrew Stanton (original story by), Joe Ranft (original story by), Joss Whedon (screenplay by), Andrew Stanton (screenplay by), Joel Cohen (screenplay by), Alec Sokolow (screenplay by)","Actors":"Tom Hanks, Tim Allen, Don Rickles, Jim Varney","Plot":"A cowboy doll is profoundly threatened and jealous when a new spaceman figure supplants him as top toy in a boy's room.","Language":"English","Country":"USA","Awards":"Nominated for 3 Oscars. Another 23 wins & 17 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMDU2ZWJlMjktMTRhMy00ZTA5LWEzNDgtYmNmZTEwZTViZWJkXkEyXkFqcGdeQXVyNDQ2OTk4MzI@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.3/10"},{"Source":"Rotten Tomatoes","Value":"100%"},{"Source":"Metacritic","Value":"95/100"}],"Metascore":"95","imdbRating":"8.3","imdbVotes":"756,798","imdbID":"tt0114709","Type":"movie","DVD":"20 Mar 2001","BoxOffice":"N/A","Production":"Buena Vista","Website":"http://www.disney.com/ToyStory","Response":"True"},
+               {"Title":"Frozen","Year":"2013","Rated":"PG","Released":"27 Nov 2013","Runtime":"102 min","Genre":"Animation, Adventure, Comedy, Family, Fantasy, Musical","Director":"Chris Buck, Jennifer Lee","Writer":"Jennifer Lee (screenplay by), Hans Christian Andersen (story inspired by \"The Snow Queen\" by), Chris Buck (story by), Jennifer Lee (story by), Shane Morris (story by)","Actors":"Kristen Bell, Idina Menzel, Jonathan Groff, Josh Gad","Plot":"When the newly-crowned Queen Elsa accidentally uses her power to turn things into ice to curse her home in infinite winter, her sister Anna teams up with a mountain man, his playful reindeer, and a snowman to change the weather condition.","Language":"English, Norwegian","Country":"USA","Awards":"Won 2 Oscars. Another 77 wins & 57 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTQ1MjQwMTE5OF5BMl5BanBnXkFtZTgwNjk3MTcyMDE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.5/10"},{"Source":"Rotten Tomatoes","Value":"90%"},{"Source":"Metacritic","Value":"74/100"}],"Metascore":"74","imdbRating":"7.5","imdbVotes":"496,175","imdbID":"tt2294629","Type":"movie","DVD":"18 Mar 2014","BoxOffice":"$400,736,600","Production":"Walt Disney Pictures","Website":"http://www.disney.com/frozen","Response":"True"},
+               {"Title":"Shrek","Year":"2001","Rated":"PG","Released":"18 May 2001","Runtime":"90 min","Genre":"Animation, Adventure, Comedy, Family, Fantasy","Director":"Andrew Adamson, Vicky Jenson","Writer":"William Steig (based upon the book by), Ted Elliott, Terry Rossio, Joe Stillman, Roger S.H. Schulman, Cody Cameron (additional dialogue), Chris Miller (additional dialogue), Conrad Vernon (additional dialogue)","Actors":"Mike Myers, Eddie Murphy, Cameron Diaz, John Lithgow","Plot":"After his swamp is filled with magical creatures, Shrek agrees to rescue Princess Fiona for a villainous lord in order to get his land back.","Language":"English","Country":"USA","Awards":"Won 1 Oscar. Another 36 wins & 60 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BOGZhM2FhNTItODAzNi00YjA0LWEyN2UtNjJlYWQzYzU1MDg5L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.9/10"},{"Source":"Rotten Tomatoes","Value":"88%"},{"Source":"Metacritic","Value":"84/100"}],"Metascore":"84","imdbRating":"7.9","imdbVotes":"539,606","imdbID":"tt0126029","Type":"movie","DVD":"02 Nov 2001","BoxOffice":"$266,982,666","Production":"Dreamworks","Website":"http://www.shrek.com/","Response":"True"},
+               {"Title":"Ratatouille","Year":"2007","Rated":"G","Released":"29 Jun 2007","Runtime":"111 min","Genre":"Animation, Adventure, Comedy, Drama, Family, Fantasy","Director":"Brad Bird, Jan Pinkava(co-director)","Writer":"Brad Bird (screenplay), Jan Pinkava (original story by), Jim Capobianco (original story by), Brad Bird (original story by), Emily Cook (additional story material), Kathy Greenberg (additional story material), Bob Peterson (additional story material)","Actors":"Patton Oswalt, Ian Holm, Lou Romano, Brian Dennehy","Plot":"A rat who can cook makes an unusual alliance with a young kitchen worker at a famous restaurant.","Language":"English, French","Country":"USA","Awards":"Won 1 Oscar. Another 64 wins & 42 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.0/10"},{"Source":"Rotten Tomatoes","Value":"96%"},{"Source":"Metacritic","Value":"96/100"}],"Metascore":"96","imdbRating":"8.0","imdbVotes":"553,906","imdbID":"tt0382932","Type":"movie","DVD":"06 Nov 2007","BoxOffice":"$112,408,657","Production":"Disney/Pixar","Website":"http://www.ratatouille.com/","Response":"True"},
+               {"Title":"Spirited Away","Year":"2001","Rated":"PG","Released":"28 Mar 2003","Runtime":"125 min","Genre":"Animation, Adventure, Family, Fantasy, Mystery","Director":"Hayao Miyazaki, Kirk Wise","Writer":"Hayao Miyazaki","Actors":"Rumi Hiiragi, Miyu Irino, Mari Natsuki, Takashi Naitô","Plot":"During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts.","Language":"Japanese, English","Country":"Japan","Awards":"Won 1 Oscar. Another 56 wins & 27 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BOGJjNzZmMmUtMjljNC00ZjU5LWJiODQtZmEzZTU0MjBlNzgxL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.6/10"},{"Source":"Rotten Tomatoes","Value":"97%"},{"Source":"Metacritic","Value":"96/100"}],"Metascore":"96","imdbRating":"8.6","imdbVotes":"529,111","imdbID":"tt0245429","Type":"movie","DVD":"15 Apr 2003","BoxOffice":"$9,855,615","Production":"Walt Disney Pictures","Website":"http://bventertainment.go.com/movies/spiritedaway","Response":"True"},
+               {"Title":"How to Train Your Dragon","Year":"2010","Rated":"PG","Released":"26 Mar 2010","Runtime":"98 min","Genre":"Animation, Action, Adventure, Comedy, Family, Fantasy","Director":"Dean DeBlois, Chris Sanders","Writer":"William Davies (screenplay by), Dean DeBlois (screenplay by), Chris Sanders (screenplay by), Cressida Cowell (based on the book by)","Actors":"Jay Baruchel, Gerard Butler, Craig Ferguson, America Ferrera","Plot":"A hapless young Viking who aspires to hunt dragons becomes the unlikely friend of a young dragon himself, and learns there may be more to the creatures than he assumed.","Language":"English","Country":"USA","Awards":"Nominated for 2 Oscars. Another 25 wins & 60 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMjA5NDQyMjc2NF5BMl5BanBnXkFtZTcwMjg5ODcyMw@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.1/10"},{"Source":"Rotten Tomatoes","Value":"98%"},{"Source":"Metacritic","Value":"74/100"}],"Metascore":"74","imdbRating":"8.1","imdbVotes":"581,347","imdbID":"tt0892769","Type":"movie","DVD":"15 Oct 2010","BoxOffice":"$216,900,000","Production":"Paramount/DWA","Website":"http://www.HowToTrainYourDragon.com/","Response":"True"},
+               {"Title":"Kung Fu Panda","Year":"2008","Rated":"PG","Released":"06 Jun 2008","Runtime":"92 min","Genre":"Animation, Action, Adventure, Comedy, Family","Director":"Mark Osborne, John Stevenson","Writer":"Jonathan Aibel (screenplay), Glenn Berger (screenplay), Ethan Reiff (story), Cyrus Voris (story)","Actors":"Jack Black, Dustin Hoffman, Angelina Jolie, Ian McShane","Plot":"The Dragon Warrior has to clash against the savage Tai Lung as China's fate hangs in the balance. However, the Dragon Warrior mantle is supposedly mistaken to be bestowed upon an obese panda who is a novice in martial arts.","Language":"English","Country":"USA","Awards":"Nominated for 1 Oscar. Another 14 wins & 37 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BODJkZTZhMWItMDI3Yy00ZWZlLTk4NjQtOTI1ZjU5NjBjZTVjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.6/10"},{"Source":"Rotten Tomatoes","Value":"87%"},{"Source":"Metacritic","Value":"73/100"}],"Metascore":"73","imdbRating":"7.6","imdbVotes":"365,134","imdbID":"tt0441773","Type":"movie","DVD":"09 Nov 2008","BoxOffice":"$215,395,021","Production":"Paramount Pictures","Website":"http://www.KungFuPanda.com","Response":"True"},
+               {"Title":"Inception","Year":"2010","Rated":"PG-13","Released":"16 Jul 2010","Runtime":"148 min","Genre":"Action, Adventure, Sci-Fi, Thriller","Director":"Christopher Nolan","Writer":"Christopher Nolan","Actors":"Leonardo DiCaprio, Joseph Gordon-Levitt, Ellen Page, Tom Hardy","Plot":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.","Language":"English, Japanese, French","Country":"USA, UK","Awards":"Won 4 Oscars. Another 152 wins & 204 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.8/10"},{"Source":"Rotten Tomatoes","Value":"86%"},{"Source":"Metacritic","Value":"74/100"}],"Metascore":"74","imdbRating":"8.8","imdbVotes":"1,766,435","imdbID":"tt1375666","Type":"movie","DVD":"07 Dec 2010","BoxOffice":"$292,568,851","Production":"Warner Bros. Pictures","Website":"http://inceptionmovie.warnerbros.com/","Response":"True"},
+               {"Title":"Alien","Year":"1979","Rated":"R","Released":"22 Jun 1979","Runtime":"116 min","Genre":"Horror, Sci-Fi","Director":"Ridley Scott","Writer":"Dan O'Bannon (story), Ronald Shusett (story), Dan O'Bannon (screenplay)","Actors":"Tom Skerritt, Sigourney Weaver, Veronica Cartwright, Harry Dean Stanton","Plot":"After a space merchant vessel perceives an unknown transmission as a distress call, its landing on the source moon finds one of the crew attacked by a mysterious lifeform, and they soon realize that its life cycle has merely begun.","Language":"English","Country":"UK, USA","Awards":"Won 1 Oscar. Another 16 wins & 19 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMmQ2MmU3NzktZjAxOC00ZDZhLTk4YzEtMDMyMzcxY2IwMDAyXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.5/10"},{"Source":"Rotten Tomatoes","Value":"97%"},{"Source":"Metacritic","Value":"83/100"}],"Metascore":"83","imdbRating":"8.5","imdbVotes":"687,573","imdbID":"tt0078748","Type":"movie","DVD":"06 Jan 2004","BoxOffice":"N/A","Production":"20th Century Fox","Website":"http://www.foxmovies.com/index1.html","Response":"True"},
+               {"Title":"The Matrix","Year":"1999","Rated":"R","Released":"31 Mar 1999","Runtime":"136 min","Genre":"Action, Sci-Fi","Director":"Lana Wachowski, Lilly Wachowski","Writer":"Lilly Wachowski, Lana Wachowski","Actors":"Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving","Plot":"A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.","Language":"English","Country":"USA","Awards":"Won 4 Oscars. Another 34 wins & 48 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BNzQzOTk3OTAtNDQ0Zi00ZTVkLWI0MTEtMDllZjNkYzNjNTc4L2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.7/10"},{"Source":"Rotten Tomatoes","Value":"88%"},{"Source":"Metacritic","Value":"73/100"}],"Metascore":"73","imdbRating":"8.7","imdbVotes":"1,443,259","imdbID":"tt0133093","Type":"movie","DVD":"21 Sep 1999","BoxOffice":"N/A","Production":"Warner Bros. Pictures","Website":"http://www.whatisthematrix.com","Response":"True"},
+               {"Title":"Interstellar","Year":"2014","Rated":"PG-13","Released":"07 Nov 2014","Runtime":"169 min","Genre":"Adventure, Drama, Sci-Fi","Director":"Christopher Nolan","Writer":"Jonathan Nolan, Christopher Nolan","Actors":"Ellen Burstyn, Matthew McConaughey, Mackenzie Foy, John Lithgow","Plot":"A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.","Language":"English","Country":"USA, UK","Awards":"Won 1 Oscar. Another 43 wins & 143 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.6/10"},{"Source":"Rotten Tomatoes","Value":"71%"},{"Source":"Metacritic","Value":"74/100"}],"Metascore":"74","imdbRating":"8.6","imdbVotes":"1,223,304","imdbID":"tt0816692","Type":"movie","DVD":"31 Mar 2015","BoxOffice":"$158,737,441","Production":"Paramount Pictures","Website":"http://www.InterstellarMovie.com/","Response":"True"},
+               {"Title":"Ex Machina","Year":"2014","Rated":"R","Released":"24 Apr 2015","Runtime":"108 min","Genre":"Drama, Mystery, Sci-Fi, Thriller","Director":"Alex Garland","Writer":"Alex Garland","Actors":"Domhnall Gleeson, Alicia Vikander, Oscar Isaac, Sonoya Mizuno","Plot":"A young programmer is selected to participate in a ground-breaking experiment in synthetic intelligence by evaluating the human qualities of a breath-taking humanoid A.I.","Language":"English","Country":"UK","Awards":"Won 1 Oscar. Another 70 wins & 153 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTUxNzc0OTIxMV5BMl5BanBnXkFtZTgwNDI3NzU2NDE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.7/10"},{"Source":"Rotten Tomatoes","Value":"92%"},{"Source":"Metacritic","Value":"78/100"}],"Metascore":"78","imdbRating":"7.7","imdbVotes":"402,764","imdbID":"tt0470752","Type":"movie","DVD":"14 Jul 2015","BoxOffice":"$19,012,798","Production":"A24 Films","Website":"http://meet-ava.com/","Response":"True"},
+               {"Title":"Looper","Year":"2012","Rated":"R","Released":"28 Sep 2012","Runtime":"113 min","Genre":"Action, Crime, Drama, Sci-Fi, Thriller","Director":"Rian Johnson","Writer":"Rian Johnson","Actors":"Joseph Gordon-Levitt, Bruce Willis, Emily Blunt, Paul Dano","Plot":"In 2074, when the mob wants to get rid of someone, the target is sent into the past, where a hired gun awaits - someone like Joe - who one day learns the mob wants to 'close the loop' by sending back Joe's future self for assassination.","Language":"English, French","Country":"USA, China","Awards":"16 wins & 45 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTg5NTA3NTg4NF5BMl5BanBnXkFtZTcwNTA0NDYzOA@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.4/10"},{"Source":"Rotten Tomatoes","Value":"93%"},{"Source":"Metacritic","Value":"84/100"}],"Metascore":"84","imdbRating":"7.4","imdbVotes":"486,040","imdbID":"tt1276104","Type":"movie","DVD":"31 Dec 2012","BoxOffice":"$66,305,045","Production":"Sony Pictures","Website":"http://www.loopermovie.com/","Response":"True"},
+               {"Title":"Avatar","Year":"2009","Rated":"PG-13","Released":"18 Dec 2009","Runtime":"162 min","Genre":"Action, Adventure, Fantasy, Sci-Fi","Director":"James Cameron","Writer":"James Cameron","Actors":"Sam Worthington, Zoe Saldana, Sigourney Weaver, Stephen Lang","Plot":"A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.","Language":"English, Spanish","Country":"UK, USA","Awards":"Won 3 Oscars. Another 85 wins & 128 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.8/10"},{"Source":"Rotten Tomatoes","Value":"83%"},{"Source":"Metacritic","Value":"83/100"}],"Metascore":"83","imdbRating":"7.8","imdbVotes":"1,009,009","imdbID":"tt0499549","Type":"movie","DVD":"22 Apr 2010","BoxOffice":"$749,700,000","Production":"20th Century Fox","Website":"http://www.avatarmovie.com/","Response":"True"},
+               {"Title":"The Terminator","Year":"1984","Rated":"R","Released":"26 Oct 1984","Runtime":"107 min","Genre":"Action, Sci-Fi","Director":"James Cameron","Writer":"James Cameron, Gale Anne Hurd, William Wisher (additional dialogue)","Actors":"Arnold Schwarzenegger, Michael Biehn, Linda Hamilton, Paul Winfield","Plot":"A seemingly indestructible android is sent from 2029 to 1984 to assassinate a waitress, whose unborn son will lead humanity in a war against the machines, while a soldier from that war is sent to protect her at all costs.","Language":"English, Spanish","Country":"UK, USA","Awards":"6 wins & 6 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.0/10"},{"Source":"Rotten Tomatoes","Value":"100%"},{"Source":"Metacritic","Value":"84/100"}],"Metascore":"84","imdbRating":"8.0","imdbVotes":"705,066","imdbID":"tt0088247","Type":"movie","DVD":"03 Sep 1997","BoxOffice":"N/A","Production":"Orion Pictures Corporation","Website":"http://www.terminator1.com/","Response":"True"},
+               {"Title":"District 9","Year":"2009","Rated":"R","Released":"14 Aug 2009","Runtime":"112 min","Genre":"Sci-Fi, Thriller","Director":"Neill Blomkamp","Writer":"Neill Blomkamp, Terri Tatchell","Actors":"Sharlto Copley, Jason Cope, Nathalie Boltt, Sylvaine Strike","Plot":"An extraterrestrial race forced to live in slum-like conditions on Earth suddenly finds a kindred spirit in a government agent who is exposed to their biotechnology.","Language":"English, Nyanja, Afrikaans, Zulu, Xhosa, Southern Sotho","Country":"South Africa, USA, New Zealand, Canada","Awards":"Nominated for 4 Oscars. Another 30 wins & 110 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BYmQ5MzFjYWMtMTMwNC00ZGU5LWI3YTQtYzhkMGExNGFlY2Q0XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.9/10"},{"Source":"Rotten Tomatoes","Value":"90%"},{"Source":"Metacritic","Value":"81/100"}],"Metascore":"81","imdbRating":"7.9","imdbVotes":"591,348","imdbID":"tt1136608","Type":"movie","DVD":"22 Dec 2009","BoxOffice":"$115,646,235","Production":"Sony Pictures/Screen Gems","Website":"http://www.d-9.com/","Response":"True"},
+               {"Title":"Jurassic Park","Year":"1993","Rated":"PG-13","Released":"11 Jun 1993","Runtime":"127 min","Genre":"Adventure, Sci-Fi, Thriller","Director":"Steven Spielberg","Writer":"Michael Crichton (novel), Michael Crichton (screenplay), David Koepp (screenplay)","Actors":"Sam Neill, Laura Dern, Jeff Goldblum, Richard Attenborough","Plot":"During a preview tour, a theme park suffers a major power breakdown that allows its cloned dinosaur exhibits to run amok.","Language":"English, Spanish","Country":"USA","Awards":"Won 3 Oscars. Another 32 wins & 25 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMjM2MDgxMDg0Nl5BMl5BanBnXkFtZTgwNTM2OTM5NDE@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.1/10"},{"Source":"Rotten Tomatoes","Value":"91%"},{"Source":"Metacritic","Value":"68/100"}],"Metascore":"68","imdbRating":"8.1","imdbVotes":"751,491","imdbID":"tt0107290","Type":"movie","DVD":"10 Oct 2000","BoxOffice":"$45,299,680","Production":"Universal City Studios","Website":"http://www.jurassicpark.com/maingate_flash.html","Response":"True"},
+               {
+               "Title":"Mad Max",
+               "Year":"1979",
+               "Rated":"R",
+               "Released":"21 Mar 1980",
+               "Runtime":"88 min",
+               "Genre":"Action, Adventure, Sci-Fi, Thriller",
+               "Director":"George Miller",
+               "Writer":"James McCausland (screenplay), George Miller (screenplay), George Miller (original story), Byron Kennedy (original story)",
+               "Actors":"Mel Gibson, Joanne Samuel, Hugh Keays-Byrne, Steve Bisley",
+               "Plot":"In a self-destructing world, a vengeful Australian policeman sets out to stop a violent motorcycle gang.",
+               "Language":"English",
+               "Country":"Australia",
+               "Awards":"4 wins & 7 nominations.",
+               "Poster":"https://m.media-amazon.com/images/M/MV5BMTM4Mjg5ODEzMV5BMl5BanBnXkFtZTcwMDc3NDk0NA@@._V1_SX300.jpg",
+               "Ratings":[
+                          {
+                          "Source":"Internet Movie Database",
+                          "Value":"7.0/10"
+                          },
+                          {
+                          "Source":"Rotten Tomatoes",
+                          "Value":"90%"
+                          },
+                          {
+                          "Source":"Metacritic",
+                          "Value":"73/100"
+                          }
+                          ],
+               "Metascore":"73",
+               "imdbRating":"7.0",
+               "imdbVotes":"172,382",
+               "imdbID":"tt0079501",
+               "Type":"movie",
+               "DVD":"19 Nov 1997",
+               "BoxOffice":"N/A",
+               "Production":"s",
+               "Website":"N/A",
+               "Response":"True"
+               },
+               {
+               "Title":"Wonder Woman",
+               "Year":"2017",
+               "Rated":"PG-13",
+               "Released":"02 Jun 2017",
+               "Runtime":"141 min",
+               "Genre":"Action, Adventure, Fantasy, Sci-Fi, War",
+               "Director":"Patty Jenkins",
+               "Writer":"Allan Heinberg (screenplay by), Zack Snyder (story by), Allan Heinberg (story by), Jason Fuchs (story by), William Moulton Marston (Wonder Woman created by)",
+               "Actors":"Gal Gadot, Chris Pine, Connie Nielsen, Robin Wright",
+               "Plot":"When a pilot crashes and tells of conflict in the outside world, Diana, an Amazonian warrior in training, leaves home to fight a war, discovering her full powers and true destiny.",
+               "Language":"English, German, Dutch, French, Spanish, Chinese, Greek, Ancient (to 1453), North American Indian",
+               "Country":"USA, China, Hong Kong",
+               "Awards":"17 wins & 54 nominations.",
+               "Poster":"https://m.media-amazon.com/images/M/MV5BNDFmZjgyMTEtYTk5MC00NmY0LWJhZjktOWY2MzI5YjkzODNlXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SX300.jpg",
+               "Ratings":[
+                          {
+                          "Source":"Internet Movie Database",
+                          "Value":"7.5/10"
+                          },
+                          {
+                          "Source":"Rotten Tomatoes",
+                          "Value":"93%"
+                          },
+                          {
+                          "Source":"Metacritic",
+                          "Value":"76/100"
+                          }
+                          ],
+               "Metascore":"76",
+               "imdbRating":"7.5",
+               "imdbVotes":"444,037",
+               "imdbID":"tt0451279",
+               "Type":"movie",
+               "DVD":"19 Sep 2017",
+               "BoxOffice":"$412,400,625",
+               "Production":"Warner Bros. Pictures",
+               "Website":"http://wonderwomanfilm.com/",
+               "Response":"True"
+               },
+               {
+               "Title":"Logan",
+               "Year":"2017",
+               "Rated":"R",
+               "Released":"03 Mar 2017",
+               "Runtime":"137 min",
+               "Genre":"Action, Drama, Sci-Fi, Thriller",
+               "Director":"James Mangold",
+               "Writer":"James Mangold (story by), Scott Frank (screenplay by), James Mangold (screenplay by), Michael Green (screenplay by)",
+               "Actors":"Hugh Jackman, Patrick Stewart, Dafne Keen, Boyd Holbrook",
+               "Plot":"In the near future, a weary Logan cares for an ailing Professor X, somewhere on the Mexican border. However, Logan's attempts to hide from the world, and his legacy, are upended when a young mutant arrives, pursued by dark forces.",
+               "Language":"English, Spanish",
+               "Country":"USA",
+               "Awards":"Nominated for 1 Oscar. Another 13 wins & 55 nominations.",
+               "Poster":"https://m.media-amazon.com/images/M/MV5BYzc5MTU4N2EtYTkyMi00NjdhLTg3NWEtMTY4OTEyMzJhZTAzXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg",
+               "Ratings":[
+                          {
+                          "Source":"Internet Movie Database",
+                          "Value":"8.1/10"
+                          },
+                          {
+                          "Source":"Rotten Tomatoes",
+                          "Value":"93%"
+                          },
+                          {
+                          "Source":"Metacritic",
+                          "Value":"77/100"
+                          }
+                          ],
+               "Metascore":"77",
+               "imdbRating":"8.1",
+               "imdbVotes":"520,202",
+               "imdbID":"tt3315342",
+               "Type":"movie",
+               "DVD":"23 May 2017",
+               "BoxOffice":"$226,276,809",
+               "Production":"20th Century Fox",
+               "Website":"http://www.foxmovies.com/movies/logan",
+               "Response":"True"
+               },
+               {
+               "Title":"King Kong",
+               "Year":"2005",
+               "Rated":"PG-13",
+               "Released":"14 Dec 2005",
+               "Runtime":"187 min",
+               "Genre":"Action, Adventure, Drama, Romance",
+               "Director":"Peter Jackson",
+               "Writer":"Fran Walsh (screenplay), Philippa Boyens (screenplay), Peter Jackson (screenplay), Merian C. Cooper (based on a story by), Edgar Wallace (based on a story by)",
+               "Actors":"Naomi Watts, Jack Black, Adrien Brody, Thomas Kretschmann",
+               "Plot":"In 1933 New York, an overly ambitious movie producer coerces his cast and hired ship crew to travel to the mysterious Skull Island, where they encounter Kong, a giant ape who is immediately smitten with leading lady Ann Darrow.",
+               "Language":"English",
+               "Country":"New Zealand, USA, Germany",
+               "Awards":"Won 3 Oscars. Another 43 wins & 100 nominations.",
+               "Poster":"https://m.media-amazon.com/images/M/MV5BMjYxYmRlZWYtMzAwNC00MDA1LWJjNTItOTBjMzlhNGMzYzk3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg",
+               "Ratings":[
+                          {
+                          "Source":"Internet Movie Database",
+                          "Value":"7.2/10"
+                          },
+                          {
+                          "Source":"Rotten Tomatoes",
+                          "Value":"84%"
+                          },
+                          {
+                          "Source":"Metacritic",
+                          "Value":"81/100"
+                          }
+                          ],
+               "Metascore":"81",
+               "imdbRating":"7.2",
+               "imdbVotes":"356,947",
+               "imdbID":"tt0360717",
+               "Type":"movie",
+               "DVD":"28 Mar 2006",
+               "BoxOffice":"$218,100,000",
+               "Production":"Universal Pictures",
+               "Website":"http://www.kingkongmovie.com/",
+               "Response":"True"
+               },
+               {
+               "Title":"Star Wars: Episode IV - A New Hope",
+               "Year":"1977",
+               "Rated":"PG",
+               "Released":"25 May 1977",
+               "Runtime":"121 min",
+               "Genre":"Action, Adventure, Fantasy, Sci-Fi",
+               "Director":"George Lucas",
+               "Writer":"George Lucas",
+               "Actors":"Mark Hamill, Harrison Ford, Carrie Fisher, Peter Cushing",
+               "Plot":"Luke Skywalker joins forces with a Jedi Knight, a cocky pilot, a Wookiee and two droids to save the galaxy from the Empire's world-destroying battle station, while also attempting to rescue Princess Leia from the evil Darth Vader.",
+               "Language":"English",
+               "Country":"USA",
+               "Awards":"Won 6 Oscars. Another 50 wins & 28 nominations.",
+               "Poster":"https://m.media-amazon.com/images/M/MV5BNzVlY2MwMjktM2E4OS00Y2Y3LWE3ZjctYzhkZGM3YzA1ZWM2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg",
+               "Ratings":[
+                          {
+                          "Source":"Internet Movie Database",
+                          "Value":"8.6/10"
+                          },
+                          {
+                          "Source":"Rotten Tomatoes",
+                          "Value":"93%"
+                          },
+                          {
+                          "Source":"Metacritic",
+                          "Value":"90/100"
+                          }
+                          ],
+               "Metascore":"90",
+               "imdbRating":"8.6",
+               "imdbVotes":"1,083,584",
+               "imdbID":"tt0076759",
+               "Type":"movie",
+               "DVD":"21 Sep 2004",
+               "BoxOffice":"N/A",
+               "Production":"20th Century Fox",
+               "Website":"http://www.starwars.com/episode-iv/",
+               "Response":"True"
+               },
+               {
+               "Title":"Baby Driver",
+               "Year":"2017",
+               "Rated":"R",
+               "Released":"28 Jun 2017",
+               "Runtime":"112 min",
+               "Genre":"Action, Crime, Drama, Music, Thriller",
+               "Director":"Edgar Wright",
+               "Writer":"Edgar Wright",
+               "Actors":"Ansel Elgort, Jon Bernthal, Jon Hamm, Eiza González",
+               "Plot":"After being coerced into working for a crime boss, a young getaway driver finds himself taking part in a heist doomed to fail.",
+               "Language":"English, American Sign Language",
+               "Country":"UK, USA",
+               "Awards":"Nominated for 3 Oscars. Another 31 wins & 44 nominations.",
+               "Poster":"https://m.media-amazon.com/images/M/MV5BMjM3MjQ1MzkxNl5BMl5BanBnXkFtZTgwODk1ODgyMjI@._V1_SX300.jpg",
+               "Ratings":[
+                          {
+                          "Source":"Internet Movie Database",
+                          "Value":"7.6/10"
+                          },
+                          {
+                          "Source":"Rotten Tomatoes",
+                          "Value":"93%"
+                          },
+                          {
+                          "Source":"Metacritic",
+                          "Value":"86/100"
+                          }
+                          ],
+               "Metascore":"86",
+               "imdbRating":"7.6",
+               "imdbVotes":"332,592",
+               "imdbID":"tt3890160",
+               "Type":"movie",
+               "DVD":"10 Oct 2017",
+               "BoxOffice":"$107,770,367",
+               "Production":"Sony Pictures",
+               "Website":"http://www.babydriver-movie.com/",
+               "Response":"True"
+               },
+               {
+               "Title":"Zootopia",
+               "Year":"2016",
+               "Rated":"PG",
+               "Released":"04 Mar 2016",
+               "Runtime":"108 min",
+               "Genre":"Animation, Adventure, Comedy, Crime, Family, Mystery",
+               "Director":"Byron Howard, Rich Moore, Jared Bush(co-director)",
+               "Writer":"Byron Howard (story by), Rich Moore (story by), Jared Bush (story by), Jim Reardon (story by), Josie Trinidad (story by), Phil Johnston (story by), Jennifer Lee (story by), Jared Bush (screenplay by), Phil Johnston (screenplay by)",
+               "Actors":"Ginnifer Goodwin, Jason Bateman, Idris Elba, Jenny Slate",
+               "Plot":"In a city of anthropomorphic animals, a rookie bunny cop and a cynical con artist fox must work together to uncover a conspiracy.",
+               "Language":"English",
+               "Country":"USA",
+               "Awards":"Won 1 Oscar. Another 45 wins & 65 nominations.",
+               "Poster":"https://m.media-amazon.com/images/M/MV5BOTMyMjEyNzIzMV5BMl5BanBnXkFtZTgwNzIyNjU0NzE@._V1_SX300.jpg",
+               "Ratings":[
+                          {
+                          "Source":"Internet Movie Database",
+                          "Value":"8.0/10"
+                          },
+                          {
+                          "Source":"Rotten Tomatoes",
+                          "Value":"97%"
+                          },
+                          {
+                          "Source":"Metacritic",
+                          "Value":"78/100"
+                          }
+                          ],
+               "Metascore":"78",
+               "imdbRating":"8.0",
+               "imdbVotes":"358,855",
+               "imdbID":"tt2948356",
+               "Type":"movie",
+               "DVD":"07 Jun 2016",
+               "BoxOffice":"$341,264,012",
+               "Production":"Walt Disney Animation Studios",
+               "Website":"http://movies.disney.com/zootopia",
+               "Response":"True"
+               },
+               {
+               "Title":"Spider Man",
+               "Year":"1978",
+               "Rated":"N/A",
+               "Released":"17 May 1978",
+               "Runtime":"30 min",
+               "Genre":"Action, Adventure, Family",
+               "Director":"N/A",
+               "Writer":"Steve Ditko, Stan Lee",
+               "Actors":"Shinji Tôdô, Mitsuo Andô, Yukie Kagawa, Hirofumi Koga",
+               "Plot":"To fight against the evil Iron Cross Army, led by the space emperor Professor Monster, a daredevil motorcyclist transforms into the famous Marvel Superhero, with a racecar and giant ...",
+               "Language":"Japanese",
+               "Country":"Japan, USA",
+               "Awards":"N/A",
+               "Poster":"https://m.media-amazon.com/images/M/MV5BM2EwYzA2YjMtNDdhYi00OTI1LWE2ODUtOWViODk4YjRjNzVmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SX300.jpg",
+               "Ratings":[
+                          {
+                          "Source":"Internet Movie Database",
+                          "Value":"6.4/10"
+                          }
+                          ],
+               "Metascore":"N/A",
+               "imdbRating":"6.4",
+               "imdbVotes":"257",
+               "imdbID":"tt0185116",
+               "Type":"series",
+               "totalSeasons":"1",
+               "Response":"True"
+               },
+               {
+               "Title":"The Dark Knight",
+               "Year":"2008",
+               "Rated":"PG-13",
+               "Released":"18 Jul 2008",
+               "Runtime":"152 min",
+               "Genre":"Action, Crime, Drama, Thriller",
+               "Director":"Christopher Nolan",
+               "Writer":"Jonathan Nolan (screenplay), Christopher Nolan (screenplay), Christopher Nolan (story), David S. Goyer (story), Bob Kane (characters)",
+               "Actors":"Christian Bale, Heath Ledger, Aaron Eckhart, Michael Caine",
+               "Plot":"When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. The Dark Knight must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+               "Language":"English, Mandarin",
+               "Country":"USA, UK",
+               "Awards":"Won 2 Oscars. Another 152 wins & 155 nominations.",
+               "Poster":"https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_SX300.jpg",
+               "Ratings":[
+                          {
+                          "Source":"Internet Movie Database",
+                          "Value":"9.0/10"
+                          },
+                          {
+                          "Source":"Rotten Tomatoes",
+                          "Value":"94%"
+                          },
+                          {
+                          "Source":"Metacritic",
+                          "Value":"84/100"
+                          }
+                          ],
+               "Metascore":"84",
+               "imdbRating":"9.0",
+               "imdbVotes":"1,980,301",
+               "imdbID":"tt0468569",
+               "Type":"movie",
+               "DVD":"09 Dec 2008",
+               "BoxOffice":"$533,316,061",
+               "Production":"Warner Bros. Pictures/Legendary",
+               "Website":"http://thedarkknight.warnerbros.com/",
+               "Response":"True"
+               },
+               {"Title":"Braveheart","Year":"1995","Rated":"R","Released":"24 May 1995","Runtime":"178 min","Genre":"Biography, Drama, History, War","Director":"Mel Gibson","Writer":"Randall Wallace","Actors":"James Robinson, Sean Lawlor, Sandy Nelson, James Cosmo","Plot":"When his secret bride is executed for assaulting an English soldier who tried to rape her, Sir William Wallace begins a revolt against King Edward I of England.","Language":"English, French, Latin, Scottish Gaelic, Italian","Country":"USA","Awards":"Won 5 Oscars. Another 26 wins & 28 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.4/10"},{"Source":"Rotten Tomatoes","Value":"76%"},{"Source":"Metacritic","Value":"68/100"}],"Metascore":"68","imdbRating":"8.4","imdbVotes":"866,876","imdbID":"tt0112573","Type":"movie","DVD":"29 Aug 2000","BoxOffice":"N/A","Production":"Paramount Pictures","Website":"N/A","Response":"True"},
+               {"Title":"Schindler's List","Year":"1993","Rated":"R","Released":"04 Feb 1994","Runtime":"195 min","Genre":"Biography, Drama, History","Director":"Steven Spielberg","Writer":"Thomas Keneally (book), Steven Zaillian (screenplay)","Actors":"Liam Neeson, Ben Kingsley, Ralph Fiennes, Caroline Goodall","Plot":"In German-occupied Poland during World War II, Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazi Germans.","Language":"English, Hebrew, German, Polish","Country":"USA","Awards":"Won 7 Oscars. Another 82 wins & 49 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.9/10"},{"Source":"Rotten Tomatoes","Value":"97%"},{"Source":"Metacritic","Value":"93/100"}],"Metascore":"93","imdbRating":"8.9","imdbVotes":"1,040,910","imdbID":"tt0108052","Type":"movie","DVD":"09 Mar 2004","BoxOffice":"N/A","Production":"Universal Pictures","Website":"http://www.schindlerslist.com","Response":"True"},
+               {"Title":"Gandhi","Year":"1982","Rated":"PG","Released":"25 Feb 1983","Runtime":"191 min","Genre":"Biography, Drama, History","Director":"Richard Attenborough","Writer":"John Briley","Actors":"Ben Kingsley, Rohini Hattangadi, Roshan Seth, Candice Bergen","Plot":"Gandhi's character is fully explained as a man of nonviolence. Through his patience, he is able to drive the British out of the subcontinent. And the stubborn nature of Jinnah and his commitment towards Pakistan is portrayed.","Language":"English","Country":"UK, India, USA","Awards":"Won 8 Oscars. Another 27 wins & 20 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMzJiZDRmOWUtYjE2MS00Mjc1LTg1ZDYtNTQxYWJkZTg1OTM4XkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.1/10"},{"Source":"Rotten Tomatoes","Value":"85%"},{"Source":"Metacritic","Value":"79/100"}],"Metascore":"79","imdbRating":"8.1","imdbVotes":"202,289","imdbID":"tt0083987","Type":"movie","DVD":"28 Aug 2001","BoxOffice":"N/A","Production":"Columbia Pictures","Website":"N/A","Response":"True"},
+               {"Title":"12 Years a Slave","Year":"2013","Rated":"R","Released":"08 Nov 2013","Runtime":"134 min","Genre":"Biography, Drama, History","Director":"Steve McQueen","Writer":"John Ridley (screenplay by), Solomon Northup (based on \"Twelve Years a Slave\" by)","Actors":"Chiwetel Ejiofor, Dwight Henry, Dickie Gravois, Bryan Batt","Plot":"In the antebellum United States, Solomon Northup, a free black man from upstate New York, is abducted and sold into slavery.","Language":"English","Country":"USA, UK","Awards":"Won 3 Oscars. Another 235 wins & 326 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BZjFkOGNjZjAtMzZjNS00ZjI2LTkwNjEtOWQ3NzQzOTBlMDA5XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.1/10"},{"Source":"Rotten Tomatoes","Value":"95%"},{"Source":"Metacritic","Value":"96/100"}],"Metascore":"96","imdbRating":"8.1","imdbVotes":"555,132","imdbID":"tt2024544","Type":"movie","DVD":"04 Mar 2014","BoxOffice":"$50,628,650","Production":"Fox Searchlight","Website":"http://www.foxsearchlight.com/12yearsaslave/","Response":"True"},
+               {"Title":"Ben-Hur","Year":"1959","Rated":"G","Released":"29 Jan 1960","Runtime":"212 min","Genre":"Adventure, Drama, History","Director":"William Wyler","Writer":"Lew Wallace (novel), Karl Tunberg (screenplay)","Actors":"Charlton Heston, Jack Hawkins, Haya Harareet, Stephen Boyd","Plot":"When a Jewish prince is betrayed and sent into slavery by a Roman friend, he regains his freedom and comes back for revenge.","Language":"English","Country":"USA","Awards":"Won 11 Oscars. Another 17 wins & 13 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BNjgxY2JiZDYtZmMwOC00ZmJjLWJmODUtMTNmNWNmYWI5ODkwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.1/10"},{"Source":"Rotten Tomatoes","Value":"87%"},{"Source":"Metacritic","Value":"90/100"}],"Metascore":"90","imdbRating":"8.1","imdbVotes":"195,471","imdbID":"tt0052618","Type":"movie","DVD":"13 Sep 2005","BoxOffice":"N/A","Production":"MGM","Website":"N/A","Response":"True"},
+               {"Title":"The Patriot","Year":"2000","Rated":"R","Released":"28 Jun 2000","Runtime":"165 min","Genre":"Action, Drama, History, War","Director":"Roland Emmerich","Writer":"Robert Rodat","Actors":"Mel Gibson, Heath Ledger, Joely Richardson, Jason Isaacs","Plot":"Peaceful farmer Benjamin Martin is driven to lead the Colonial Militia during the American Revolution when a sadistic British officer murders his son.","Language":"English","Country":"USA, Germany","Awards":"Nominated for 3 Oscars. Another 8 wins & 18 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTkzMjE4ODU0MV5BMl5BanBnXkFtZTYwNTI2OTk2._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.2/10"},{"Source":"Rotten Tomatoes","Value":"61%"},{"Source":"Metacritic","Value":"63/100"}],"Metascore":"63","imdbRating":"7.2","imdbVotes":"231,382","imdbID":"tt0187393","Type":"movie","DVD":"25 Apr 2006","BoxOffice":"$2,317,507","Production":"Columbia Pictures","Website":"http://www.spe.sony.com/movies/thepatriot","Response":"True"},
+               {"Title":"Black Hawk Down","Year":"2001","Rated":"R","Released":"18 Jan 2002","Runtime":"144 min","Genre":"Drama, History, War","Director":"Ridley Scott","Writer":"Mark Bowden (book), Ken Nolan (screenplay)","Actors":"Josh Hartnett, Ewan McGregor, Tom Sizemore, Eric Bana","Plot":"160 elite U.S. soldiers drop into Somalia to capture two top lieutenants of a renegade warlord and find themselves in a desperate battle with a large force of heavily-armed Somalis.","Language":"English, Somali, Arabic","Country":"USA, UK","Awards":"Won 2 Oscars. Another 8 wins & 37 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BYWMwMzQxZjQtODM1YS00YmFiLTk1YjQtNzNiYWY1MDE4NTdiXkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.7/10"},{"Source":"Rotten Tomatoes","Value":"76%"},{"Source":"Metacritic","Value":"74/100"}],"Metascore":"74","imdbRating":"7.7","imdbVotes":"329,432","imdbID":"tt0265086","Type":"movie","DVD":"11 Jun 2002","BoxOffice":"$108,585,355","Production":"Sony Pictures","Website":"http://www.spe.sony.com/movies/blackhawkdown","Response":"True"},
+               {"Title":"Glory","Year":"1989","Rated":"R","Released":"16 Feb 1990","Runtime":"122 min","Genre":"Biography, Drama, History, War","Director":"Edward Zwick","Writer":"Kevin Jarre (screenplay), Lincoln Kirstein (book), Peter Burchard (book), Robert Gould Shaw (letters)","Actors":"Matthew Broderick, Denzel Washington, Cary Elwes, Morgan Freeman","Plot":"Robert Gould Shaw leads the U.S. Civil War's first all-black volunteer company, fighting prejudices from both his own Union Army, and the Confederates.","Language":"English","Country":"USA","Awards":"Won 3 Oscars. Another 11 wins & 18 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BMTViNGM4NjYtMTJkNC00MjNiLWIzNmMtYWU5Mjg4N2UwNzlkL2ltYWdlXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"7.9/10"},{"Source":"Rotten Tomatoes","Value":"93%"}],"Metascore":"N/A","imdbRating":"7.9","imdbVotes":"111,104","imdbID":"tt0097441","Type":"movie","DVD":"01 Jan 1998","BoxOffice":"N/A","Production":"TriStar","Website":"N/A","Response":"True"},
+               {"Title":"Downfall","Year":"2004","Rated":"R","Released":"08 Apr 2005","Runtime":"156 min","Genre":"Biography, Drama, History, War","Director":"Oliver Hirschbiegel","Writer":"Bernd Eichinger (screenplay), Joachim Fest (book), Traudl Junge (book), Melissa Müller (book)","Actors":"Bruno Ganz, Alexandra Maria Lara, Corinna Harfouch, Ulrich Matthes","Plot":"Traudl Junge, the final secretary for Adolf Hitler, tells of the Nazi dictator's final days in his Berlin bunker at the end of WWII.","Language":"German, Russian, Hungarian","Country":"Germany, Austria, Italy","Awards":"Nominated for 1 Oscar. Another 21 wins & 29 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BZDFmNzI3YmItMTMyMy00YjE1LTliYTgtN2Q4M2QzZDE5MTlhXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.2/10"},{"Source":"Rotten Tomatoes","Value":"91%"},{"Source":"Metacritic","Value":"82/100"}],"Metascore":"82","imdbRating":"8.2","imdbVotes":"294,380","imdbID":"tt0363163","Type":"movie","DVD":"02 Aug 2005","BoxOffice":"$5,475,810","Production":"Newmarket Films","Website":"http://www.downfallthefilm.com/","Response":"True"},
+               {"Title":"Vertigo","Year":"1958","Rated":"PG","Released":"21 Jul 1958","Runtime":"128 min","Genre":"Mystery, Romance, Thriller","Director":"Alfred Hitchcock","Writer":"Alec Coppel (screenplay by), Samuel A. Taylor (screenplay by), Pierre Boileau (based on the novel \"D'Entre Les Morts\" by), Thomas Narcejac (based on the novel \"D'Entre Les Morts\" by)","Actors":"James Stewart, Kim Novak, Barbara Bel Geddes, Tom Helmore","Plot":"A former police detective juggles wrestling with his personal demons and becoming obsessed with a hauntingly beautiful woman.","Language":"English","Country":"USA","Awards":"Nominated for 2 Oscars. Another 8 wins & 4 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BYTE4ODEwZDUtNDFjOC00NjAxLWEzYTQtYTI1NGVmZmFlNjdiL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.3/10"},{"Source":"Rotten Tomatoes","Value":"96%"},{"Source":"Metacritic","Value":"100/100"}],"Metascore":"100","imdbRating":"8.3","imdbVotes":"306,597","imdbID":"tt0052357","Type":"movie","DVD":"31 Mar 1998","BoxOffice":"N/A","Production":"Paramount Pictures","Website":"N/A","Response":"True"},
+               {"Title":"Laura","Year":"1944","Rated":"NOT RATED","Released":"01 Nov 1944","Runtime":"88 min","Genre":"Drama, Film-Noir, Mystery","Director":"Otto Preminger","Writer":"Vera Caspary (novel), Jay Dratler (screen play), Samuel Hoffenstein (screen play), Elizabeth Reinhardt (screen play)","Actors":"Gene Tierney, Dana Andrews, Clifton Webb, Vincent Price","Plot":"A police detective falls in love with the woman whose murder he is investigating.","Language":"English","Country":"USA","Awards":"Won 1 Oscar. Another 2 wins & 4 nominations.","Poster":"https://m.media-amazon.com/images/M/MV5BYWQ0MmRiMjMtM2Y1MC00MTYwLWI4YzktOGI0MjdiNzJlZDc3L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.1/10"},{"Source":"Rotten Tomatoes","Value":"100%"}],"Metascore":"N/A","imdbRating":"8.1","imdbVotes":"36,531","imdbID":"tt0037008","Type":"movie","DVD":"15 Mar 2005","BoxOffice":"N/A","Production":"20th Century Fox","Website":"N/A","Response":"True"},
+               {"Title":"The Maltese Falcon","Year":"1941","Rated":"NOT RATED","Released":"18 Oct 1941","Runtime":"100 min","Genre":"Film-Noir, Mystery","Director":"John Huston","Writer":"John Huston (screen play by), Dashiell Hammett (based upon the novel by)","Actors":"Humphrey Bogart, Mary Astor, Gladys George, Peter Lorre","Plot":"A private detective takes on a case that involves him with three eccentric criminals, a gorgeous liar, and their quest for a priceless statuette.","Language":"English","Country":"USA","Awards":"Nominated for 3 Oscars. Another 4 wins.","Poster":"https://m.media-amazon.com/images/M/MV5BZjIwNGM1ZTUtOThjYS00NDdiLTk2ZDYtNGY5YjJkNzliM2JjL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMDI2NDg0NQ@@._V1_SX300.jpg","Ratings":[{"Source":"Internet Movie Database","Value":"8.1/10"},{"Source":"Rotten Tomatoes","Value":"100%"},{"Source":"Metacritic","Value":"96/100"}],"Metascore":"96","imdbRating":"8.1","imdbVotes":"135,980","imdbID":"tt0033870","Type":"movie","DVD":"15 Feb 2000","BoxOffice":"N/A","Production":"Warner Bros.","Website":"N/A","Response":"True"}
+
+
+               
+               
+               
+               
+               
+               ]
+    
+}
