@@ -63,9 +63,9 @@ class LogInViewController: UIViewController, UITextFieldDelegate {
     
 
     override func viewDidAppear(_ animated: Bool) {
-        if Auth.auth().currentUser != nil {
-            self.performSegue(withIdentifier: "logInToMainPage", sender: self)
-        }
+//        if Auth.auth().currentUser != nil {
+//            self.performSegue(withIdentifier: "logInToMainPage", sender: self)
+//        }
     }
     
     func textFieldDidEndEditing(_ textField: UITextField) {

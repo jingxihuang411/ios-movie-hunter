@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		8601C21D21A78136004CD9D9 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 8601C21C21A78136004CD9D9 /* GoogleService-Info.plist */; };
 		8601C21F21A79A7E004CD9D9 /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8601C21E21A79A7D004CD9D9 /* TableViewCell.swift */; };
 		8601C22521AB7394004CD9D9 /* MovieInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8601C22421AB7394004CD9D9 /* MovieInfoViewController.swift */; };
 		8601C22721AC8901004CD9D9 /* MovieCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8601C22621AC8901004CD9D9 /* MovieCollectionViewController.swift */; };
@@ -24,13 +23,13 @@
 		868FC4662193E15300BEC6E1 /* SignUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 868FC4652193E15300BEC6E1 /* SignUpViewController.swift */; };
 		868FC46A2193E9E700BEC6E1 /* MovieTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 868FC4692193E9E700BEC6E1 /* MovieTableViewController.swift */; };
 		868FC46E2193EA1E00BEC6E1 /* TopTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 868FC46D2193EA1E00BEC6E1 /* TopTableViewController.swift */; };
+		86CD22D621AF8EE600B84A2A /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 86CD22D521AF8EE600B84A2A /* GoogleService-Info.plist */; };
 		97EBCFCB6D92D3D146912945 /* Pods_MovieHunter.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 636C28E2FED22167EB3C3C92 /* Pods_MovieHunter.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5D5E2029EF77B55B7A753B02 /* Pods-MovieHunter.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieHunter.release.xcconfig"; path = "Pods/Target Support Files/Pods-MovieHunter/Pods-MovieHunter.release.xcconfig"; sourceTree = "<group>"; };
 		636C28E2FED22167EB3C3C92 /* Pods_MovieHunter.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MovieHunter.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		8601C21C21A78136004CD9D9 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		8601C21E21A79A7D004CD9D9 /* TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
 		8601C22421AB7394004CD9D9 /* MovieInfoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieInfoViewController.swift; sourceTree = "<group>"; };
 		8601C22621AC8901004CD9D9 /* MovieCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCollectionViewController.swift; sourceTree = "<group>"; };
@@ -49,6 +48,7 @@
 		868FC4652193E15300BEC6E1 /* SignUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewController.swift; sourceTree = "<group>"; };
 		868FC4692193E9E700BEC6E1 /* MovieTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieTableViewController.swift; sourceTree = "<group>"; };
 		868FC46D2193EA1E00BEC6E1 /* TopTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TopTableViewController.swift; sourceTree = "<group>"; };
+		86CD22D521AF8EE600B84A2A /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		F3CA7FB9042BCC910C418157 /* Pods-MovieHunter.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MovieHunter.debug.xcconfig"; path = "Pods/Target Support Files/Pods-MovieHunter/Pods-MovieHunter.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -108,10 +108,10 @@
 				868FC4532193C42B00BEC6E1 /* Main.storyboard */,
 				868FC4562193C42E00BEC6E1 /* Assets.xcassets */,
 				868FC45B2193C42E00BEC6E1 /* Info.plist */,
-				8601C21C21A78136004CD9D9 /* GoogleService-Info.plist */,
 				868FC4632193E0AA00BEC6E1 /* LoginViewController.swift */,
 				868FC4652193E15300BEC6E1 /* SignUpViewController.swift */,
 				8601C22C21AF25B9004CD9D9 /* MovieGenerator.swift */,
+				86CD22D521AF8EE600B84A2A /* GoogleService-Info.plist */,
 				8601C22E21AF2964004CD9D9 /* Movie.swift */,
 				8601C22421AB7394004CD9D9 /* MovieInfoViewController.swift */,
 				868FC4692193E9E700BEC6E1 /* MovieTableViewController.swift */,
@@ -186,9 +186,9 @@
 			files = (
 				8601C23321AF3702004CD9D9 /* movieData.json in Resources */,
 				868FC4572193C42E00BEC6E1 /* Assets.xcassets in Resources */,
+				86CD22D621AF8EE600B84A2A /* GoogleService-Info.plist in Resources */,
 				8601C23721AF6636004CD9D9 /* topMovie.json in Resources */,
 				868FC4552193C42B00BEC6E1 /* Main.storyboard in Resources */,
-				8601C21D21A78136004CD9D9 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
